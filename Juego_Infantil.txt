@@ -13,7 +13,13 @@ public class EjercicioUF4_01 {
             {"bear", "oso"},
             {"cat", "gato"}, 
 		//añadir aquí lo solicitado por el cliente guardería.
-		
+		//Fran: Añado colores según petición del cliente.
+			{"red", "rojo"},
+			{"blue", "azul"},
+			{"white", "blanco"},
+			{"black", "negro"},
+			{"orange", "naranja"},
+			{"yellow", "amarillo"},
         };
     
 	
