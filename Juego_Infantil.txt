@@ -12,6 +12,15 @@ public class EjercicioUF4_01 {
     String matrizIngles[][]= {
             {"bear", "oso"},
             {"cat", "gato"}, 
+			
+			//Dani:añado mas animales a peticion del cliente para fomentar el aprendizaje.
+	            
+	            {"fish", "pez"}, 
+	            {"dog", "perro"}, 
+	            {"lion", "leon"}, 
+	            {"cat", "gato"}, 
+	            {"mouse", "raton"}, 
+				
 		//añadir aquí lo solicitado por el cliente guardería.
 		//Fran: Añado colores según petición del cliente.
 			{"red", "rojo"},
