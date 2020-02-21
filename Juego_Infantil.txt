@@ -20,6 +20,12 @@ public class EjercicioUF4_01 {
 	            {"lion", "leon"}, 
 	            {"cat", "gato"}, 
 	            {"mouse", "raton"}, 
+
+			//Javier F: A petición del cliente se añaden 3 animales más.
+                    
+                    {"tiger", "tigre"}, 
+	            {"pájaro", "bird"}, 
+	            {"tiburón", "shark"}, 
 				
 		//añadir aquí lo solicitado por el cliente guardería.
 		//Fran: Añado colores según petición del cliente.
