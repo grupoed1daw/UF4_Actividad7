@@ -35,6 +35,13 @@ public class EjercicioUF4_01 {
 			{"black", "negro"},
 			{"orange", "naranja"},
 			{"yellow", "amarillo"},
+
+                 //Javier González: Se añade tres colores más a petición del cliente.
+
+                        {"grey", "gris"},
+                        {"green", "verde"},
+                        {"browm", "marrón"},
+                 
         };
     
 	
